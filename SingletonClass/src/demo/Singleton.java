@@ -6,7 +6,6 @@ public class Singleton {
 	}
 }
 
-
 class Abc
 {
 	static Abc obj = new Abc();
